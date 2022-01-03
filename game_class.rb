@@ -1,4 +1,4 @@
-require_relative './player_class'
+
 
 class Game 
 
@@ -91,7 +91,3 @@ class Game
 
 
 end
-
-newgame = Game.new
-
-newgame.play
